@@ -2,7 +2,8 @@
     "name": "Tree Thing",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Tree Thing": "github:splatboy20081/tree-thing#0e41e01b805a2bb3a32c5d6ba8e510cc2f51a786"
     },
     "files": [
         "main.blocks",
